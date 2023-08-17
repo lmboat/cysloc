@@ -1,6 +1,5 @@
 # cysloc
-The Cys-LoC and CysLOx methods, enable quantitative subcellular cysteine chemoproteomics, including identification of mitochondrial cysteines sensitive to LPS+IFNg-induced oxidative stress.
-
+Integrating chemoproteomics, subcellular localization annotations and experimental oxidation measurements to define the subcellular cysteinome and redoxome.
 Available at: https://www.sciencedirect.com/science/article/pii/S2451945623001861
 
 The CysLoc Database and mass spectrometry processing were created and developed by Lisa Boatner.
