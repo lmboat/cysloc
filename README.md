@@ -1,4 +1,4 @@
-# cysloc
+# cyslocdb
 Integrating chemoproteomics, subcellular localization annotations and experimental oxidation measurements to define the subcellular cysteinome and redoxome.
 Available at: https://www.sciencedirect.com/science/article/pii/S2451945623001861
 
