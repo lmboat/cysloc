@@ -18,7 +18,9 @@ mitochondrial metabolism.
 
 Yan, T., Julio, A.R., Villanueva, M., Jones, A.E., Ball, A.B., Boatner, L.M., Turmon, A.C., Nguyễn, K.B., Yen, S.L., Desai, H.S. and Divakaruni, A.S., 2023. Proximity-labeling chemoproteomics defines the subcellular cysteinome and inflammation-responsive mitochondrial redoxome. Cell Chemical Biology, 30(7), 811-827.
 
-![1-s2 0-S2451945623001861-fx1](https://github.com/lmboat/cyslocdb/assets/35751646/58b3557f-98d6-41d4-9a71-871709d60b0f)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/lmboat/cyslocdb/assets/35751646/58b3557f-98d6-41d4-9a71-871709d60b0f">
+</p>
 
 *To run (specifically for post-processing FragPipe MS label free quantitation (LFQ) data with a mouse fasta file):*
 
